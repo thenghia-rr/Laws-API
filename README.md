@@ -1,0 +1,8 @@
+# API ABOUT LAWS PROVIDING THE PROJECT PRISONERS MANAGEMENT SYSTEM (TKINTER-PYTHON)
+## CATEGORIES LAW
+1. Hình sự
+2. Dân sự
+3. Lao động
+4. Thuế
+5. Doanh nghiệp
+6. Hành chính
